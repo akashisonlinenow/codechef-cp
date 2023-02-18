@@ -66,53 +66,7 @@ bool sortd(const pair<int, int> &a, const pair<int, int> &b) { return (a.second 
 
 // Code
 void ak()
-{
-    // ll n;            q2...
-    // string s;
-    // cin >> n;
-    // cin >> s;
-
-    // unordered_map<char, int> mp;
-    // for (int i = 0; i < n; i++)
-    // {
-    //     mp[s[i]]++;
-    // }
-
-    // int ans = 0, length;
-    // for (auto it : mp)
-    // {
-    //     if (it.second % 2 == 0)
-    //     {
-    //         ans += it.second;
-    //     }
-    //     if (it.second == 1)
-    //     {
-    //         ans += (it.second - 1);
-    //     }
-    // }
-
-    // for (auto it : mp)
-    // {
-    //     if (it.second == 1)
-    //     {
-    //         ans++;
-    //     }
-    // }
-
-    // length = n - ans;
-
-    // cout << length << "\n";
-
-    // ll n;                q5
-    // cin >> n;
-
-    // int arr[n];
-
-    // for (int i = 0; i < n; i++)
-    // {
-    //     cin >> arr[i];
-    // }
-
+{           // refer learn to code utube
     ll n;
     cin >> n;
 
