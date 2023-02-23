@@ -66,7 +66,7 @@ bool sortd(const pair<int, int> &a, const pair<int, int> &b) { return (a.second 
 
 // Code
 void ak()
-{
+{ // referred by 1 star coder utube...
     int n, k;
     cin >> n >> k;
 
